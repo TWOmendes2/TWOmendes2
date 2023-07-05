@@ -17,7 +17,7 @@
 Vamos construir um mundo digital incrível juntos! 💻✨
 <div style="display: inline_block">
   
-  <a href="(https://www.behance.net/felipe_mendes"><img align="center" alt="behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.behance.net/felipe_mendes"><img align="center" alt="behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </div><br/>
 
 
