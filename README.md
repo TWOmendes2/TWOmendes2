@@ -1,6 +1,6 @@
 ### Olá, eu sou Felipe Mendes
 
-👨‍💻 Estudante de Ciências da Computação no 5° período | Desenvolvedor Full Stack | Entusiasta de Design
+👨‍💻 Estudante de Ciências da Computação no 6° período | Desenvolvedor Full Stack | Entusiasta de Design
 
 🔭 Explorando o mundo da programação, sempre em busca de novos desafios e aprendizados. Meu foco principal é no desenvolvimento web, utilizando tecnologias como Python, HTML, CSS e JavaScript para criar soluções robustas e elegantes.
 
