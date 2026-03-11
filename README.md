@@ -1,8 +1,8 @@
-Olá, eu sou Felipe Mendes 👨‍💻
+## Olá, eu sou Felipe Mendes 👨‍💻
 
 Desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais inovadoras. Com mais de 4 anos de experiência, especializo-me em construir aplicações robustas e eficientes, com um olhar atento para o design e a experiência do usuário.
 
-Minhas Habilidades Principais:
+## Minhas Habilidades Principais:
 
 •
 Desenvolvimento Full Stack: Proficiência em Python, JavaScript, React.js, Node.js, PHP, Java, HTML5 e CSS3, com experiência na criação de APIs RESTful e integração de sistemas.
