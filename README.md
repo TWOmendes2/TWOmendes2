@@ -1,20 +1,12 @@
 ### Olá, eu sou Felipe Mendes
 
-👨‍💻 Estudante de Ciências da Computação no 7° período | Desenvolvedor Full Stack | Entusiasta de Design
-
-🔭 Explorando o mundo da programação, sempre em busca de novos desafios e aprendizados. Meu foco principal é no desenvolvimento web, utilizando tecnologias como Python, HTML, CSS e JavaScript para criar soluções robustas e elegantes.
-
-💡 Apaixonado por design e usabilidade, também tenho habilidades em ferramentas como Figma, Photoshop e Illustrator, que me permitem dar vida às minhas ideias e criar interfaces intuitivas e atraentes.
-
-🌐 Além disso, possuo conhecimentos em redes de computadores, entendendo como os sistemas se conectam e interagem no ambiente virtual.
-
-🎓 Estou atualmente cursando a graduação em Ciências da Computação, onde tenho a oportunidade de aprimorar minhas habilidades e explorar diferentes áreas da computação.
-
-🚀 Sempre em busca de novos desafios e projetos interessantes para contribuir. Aberto a oportunidades de estágio e colaboração em projetos emocionantes.
-
-📫 Você pode entrar em contato comigo pelo e-mail mendes2felipe1@gmail.com ou me encontrar no LinkedIn Luiz Felipe Mendes.
-
-Vamos construir um mundo digital incrível juntos! 💻✨
+Desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais inovadoras. Com mais de 4 anos de experiência, especializo-me em construir aplicações robustas e eficientes, com um olhar atento para o design e a experiência do usuário.
+Minhas Habilidades Principais:
+• Desenvolvimento Full Stack: Proficiência em Python, JavaScript, React.js, Node.js, PHP, Java, HTML5 e CSS3, com experiência na criação de APIs RESTful e integração de sistemas.
+• Banco de Dados: Experiência em MySQL e SQL, incluindo modelagem e manutenção de bancos de dados relacionais.
+• Automação e IA: Desenvolvimento de chatbots (WhatsApp/Instagram), automação de marketing e aplicação de Inteligência Artificial para otimização de processos e produção de conteúdo.
+• Design e UI/UX: Habilidades sólidas em Figma, Adobe Photoshop e Illustrator, garantindo interfaces intuitivas, atraentes e funcionais.
+• Ferramentas: Git/GitHub, Power BI, Postman.
 <div style="display: inline_block">
   
   <a href="https://www.behance.net/felipe_mendes"><img align="center" alt="behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
