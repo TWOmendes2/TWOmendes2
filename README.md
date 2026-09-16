@@ -1,57 +1,32 @@
-## Olá, eu sou Felipe Mendes 👨‍💻
+# Felipe Mendes
 
-Desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais inovadoras. Com mais de 4 anos de experiência, especializo-me em construir aplicações robustas e eficientes, com um olhar atento para o design e a experiência do usuário.
+**Full Stack Developer · AI & Automation · Product · MarTech**
 
-## Minhas Habilidades Principais:
+Construo aplicações, integrações e automações para resolver problemas de negócio.
+Conecto desenvolvimento de software à experiência do usuário, à operação e à aquisição de clientes, com interesse em produtos SaaS e IA aplicada.
 
-•
-Desenvolvimento Full Stack: Proficiência em Python, JavaScript, React.js, Node.js, PHP, Java, HTML5 e CSS3, com experiência na criação de APIs RESTful e integração de sistemas.
+## Projetos em destaque
 
-•
-Banco de Dados: Experiência em MySQL e SQL, incluindo modelagem e manutenção de bancos de dados relacionais.
+| Projeto | Problema e evidência técnica |
+| --- | --- |
+| [Nexo Avalia](https://github.com/TWOmendes2/Sistema_quest-esIA) | Avaliações e banco de questões com IA: Next.js, TypeScript, controle de acesso e revisão pedagógica. |
+| [RH/DP SaaS](https://github.com/TWOmendes2/rh-dp-saas) | Gestão de colaboradores e jornadas: API NestJS, Prisma, PostgreSQL e painel React. |
+| [Deepontus](https://github.com/TWOmendes2/Projeto-pontos-eletronico) | Automação da operação de ponto, com interfaces administrativas e integração Supabase. |
+| [Aquisição e CRM](https://github.com/TWOmendes2/lp-semana-portugues-concurso-noslen) | Landing page de campanha: captura de leads, atribuição e integração de marketing. |
 
-•
-Automação e IA: Desenvolvimento de chatbots (WhatsApp/Instagram), automação de marketing e aplicação de Inteligência Artificial para otimização de processos e produção de conteúdo.
+## Como trabalho
 
-•
-Design e UI/UX: Habilidades sólidas em Figma, Adobe Photoshop e Illustrator, garantindo interfaces intuitivas, atraentes e funcionais.
+- **Full Stack:** interfaces React, serviços Node.js/Python, SQL e APIs REST.
+- **AI & Automation:** IA integrada a fluxos de produto, chatbots e automação de tarefas.
+- **Product:** transformar necessidades operacionais em jornadas, regras e entregas verificáveis.
+- **MarTech:** páginas de campanha, tráfego pago, atribuição e conexão entre aquisição e CRM.
 
-•
-Ferramentas: Git/GitHub, Power BI, Postman.
+Os repositórios documentam o estado atual e as limitações de cada solução. Melhorias passam por branches e PRs; funcionalidades propostas não são apresentadas como entregues.
 
-<div style="display: inline_block">
+## Fundamentos e evolução
 
-<a href="https://www.behance.net/felipe_mendes"><img align="center" alt="behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/felipe-mendes-/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[Jogo da Velha / Minimax](https://github.com/TWOmendes2/JogoDaVelhaIA) · [Busca em labirintos](https://github.com/TWOmendes2/Labirinto_IA) · [Árvore rubro-negra](https://github.com/TWOmendes2/Arvore_Rubro_Negra) · [Banco de dados com GUI](https://github.com/TWOmendes2/BancoDeDadosGUI)
 
-</div>
+Projetos de estudo preservam a evolução técnica e complementam os cases de produto. Não representam vínculo com marcas eventualmente usadas em exercícios visuais.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div style="display: inline_block">
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>  
-
-
+[LinkedIn](https://www.linkedin.com/in/felipe-mendes-/) · [Design no Behance](https://www.behance.net/felipe_mendes)
